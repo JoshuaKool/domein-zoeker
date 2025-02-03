@@ -1,6 +1,7 @@
 <?php
 
 session_start();
+
 require_once 'api-call.php';
 require_once 'connection.php';
 
